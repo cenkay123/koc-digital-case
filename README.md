@@ -1,24 +1,22 @@
-# koc-case
+## (Koc Digital Case) - Admin Template
 
-## Project setup
+![vue](https://img.icons8.com/color/48/000000/vue-js.png) 
+![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+
+#### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###### author
+Cenkay Aydin <cenkayaydin99@gmail.com>
